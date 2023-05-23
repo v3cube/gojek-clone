@@ -1,4 +1,4 @@
-# gojek-clone
+# Gojek Clone
 One Single App, All Kinds of Services
 This is the biggest multi service providing app in the market. Gojek app clone allows your users to download it just once and hire any kind of service that he or she may need. 
 
