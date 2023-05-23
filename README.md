@@ -1,6 +1,6 @@
 # gojek-clone
-One Single App, All Kinds Of Services
-This is the biggest multi service providing app in the market. This app allows your users to download it just once and hire any kind of service that he or she may need. 
+One Single App, All Kinds of Services
+This is the biggest multi service providing app in the market. Gojek app clone allows your users to download it just once and hire any kind of service that he or she may need. 
 
 What this app does?
 The Gojek Clone app is a powerful app that allows you to earn money each time someone uses it to hire a taxi ride, delivery services, food delivery, grocery delivery, medicine delivery and any kind of service from the 101+ other services including on demand maids, car wash, electricians, dog walkers, plumbers etc. all packed in one.
